@@ -12,6 +12,13 @@ The UniversitySystem is a Java console application designed to manage university
 - **Language:** Java
 - **Data Storage:** Object files for persistent data storage
 - **User Interface:** Console-based
+- **Skills Demonstrated:**
+  - Java
+  - Object-Oriented Programming (OOP)
+  - File I/O Operations
+  - Multi-threading
+  - Role-Based Access Control
+  - Data Persistence
 ## How to Run
 1. Clone the repository to your local machine.
 2. Compile the Java files using a Java compiler.
